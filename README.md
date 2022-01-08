@@ -34,6 +34,8 @@ My name is Goutham M and I"m a Software Engineer who is passionate about buildin
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
+![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=007ACC)&nbsp;
+
 
 ## &#x1f4c8; GitHub Stats
 
