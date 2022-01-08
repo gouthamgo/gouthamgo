@@ -22,6 +22,7 @@ My name is Goutham M and I"m a Software Engineer who is passionate about buildin
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express.js)&nbsp;
 <br />
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter)&nbsp;
