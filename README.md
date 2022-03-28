@@ -42,7 +42,7 @@ My name is Goutham M and I"m a Software Engineer who is passionate about buildin
 <p align="left"><img align="left" src=" https://github-readme-stats.vercel.app/" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamgo&theme=radical" alt="goutham" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamgo&theme=dark" alt="goutham" /></p>
  
  <br />
  
