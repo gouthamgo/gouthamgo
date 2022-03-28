@@ -47,3 +47,7 @@ My name is Goutham M and I"m a Software Engineer who is passionate about buildin
  <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gouthamgo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+
+[![Gouthams's github stats](https://github-readme-stats.vercel.app/api?username=gotuhamgo&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamgo&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
