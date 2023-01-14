@@ -45,7 +45,3 @@ My name is Goutham M and I"m a Software Engineer who is passionate about buildin
 [![Gouthams's github stats](https://github-readme-stats.vercel.app/api?username=gouthamgo&theme=gruvbox)](https://github.com/gouthamgo/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamgo&layout=compact&theme=gruvbox)](https://github.com/gouthamgo/github-readme-stats)
 
-## &#x1f4c8; GitHub Stats
-
-
-
