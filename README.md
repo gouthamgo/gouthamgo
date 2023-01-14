@@ -41,3 +41,14 @@ My name is Goutham M and I"m a Software Engineer who is passionate about buildin
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
 ![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=007ACC)&nbsp;
 
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src=" https://github-readme-stats.vercel.app/" /></p>
+
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamgo&theme=tokyonight" alt="goutham" /></p>
+
+ <br />
+
+
+![Goutham github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gouthamgo&bg_color=c4d0f2&color=9e4c98&line=954c9e&point=403d3d&area=true&hide_border=true)
