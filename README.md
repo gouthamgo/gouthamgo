@@ -7,7 +7,7 @@
   <img align="left" alt="Goutham M | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=gouthamgo)
+![](https://komarev.com/ghpvc/?username=gouthamgo&style=flat-square)
 
 My name is Goutham M and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
