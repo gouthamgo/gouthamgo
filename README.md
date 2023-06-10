@@ -51,4 +51,4 @@ My name is Goutham M and I"m a Software Engineer who is passionate about buildin
  <br />
 
 
-![Goutham github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gouthamgo&bg_color=c4d0f2&color=9e4c98&line=954c9e&point=403d3d&area=true&hide_border=true)
+![Goutham github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gouthamgo&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/gouthamgo/github-readme-activity-graph)
