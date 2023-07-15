@@ -3,9 +3,7 @@
 <!-- <a href="https://www.linkedin.com/in/masavarapugoutham/">
   <img align="left" alt="Goutham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
-<a href="https://twitter.com/">
-  <img align="left" alt="Goutham M | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 
 ![](https://komarev.com/ghpvc/?username=gouthamgo&style=flat-square)
 
