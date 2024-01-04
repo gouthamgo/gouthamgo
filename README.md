@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gouthamgo&style=flat-square)
 
-My name is Goutham M and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+My name is Goutham M and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies .
 
 <a href="https://github.com/gouthamgo">
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
