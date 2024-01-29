@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gouthamgo&style=flat-square)
 
-My name is Goutham  and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies
+My name is Goutham  and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouthamgo" alt="gouthamgo" /></a> </p>
 
 
