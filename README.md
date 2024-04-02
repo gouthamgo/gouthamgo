@@ -2,7 +2,7 @@
 
 <!-- <a href="https://www.linkedin.com/in/masavarapugoutham/">
   <img align="left" alt="Goutham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+</a>  -->
 
 
 ![](https://komarev.com/ghpvc/?username=gouthamgo&style=flat-square)
