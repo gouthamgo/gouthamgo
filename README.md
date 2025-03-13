@@ -46,7 +46,7 @@ My name is Goutham  and I"m a Software Engineer who is passionate about building
 <p align="left"><img align="left" src=" https://github-readme-stats.vercel.app/" /></p>
 
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamgo&theme=tokyonight" alt="goutham" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamgo&theme=tokyonight" alt="gouthamgo" /></p>
 
  <br />
 
