@@ -10,7 +10,10 @@
 # 💫 About Me:
 I'm a Software Engineer who is passionate about building tech, teaching and learning new technologies.<br>Learning AI and ML<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouthamgo" alt="gouthamgo" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouthamgo" alt="gouthamgo" /></a> </p> -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gouthamgo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <a href="https://github.com/gouthamgo">
@@ -25,8 +28,7 @@ I'm a Software Engineer who is passionate about building tech, teaching and lear
 ![](https://nirzak-streak-stats.vercel.app/?user=gouthamgo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamgo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gouthamgo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gouthamgo&icon=0&color=0)](https://visitcount.itsvg.in)
