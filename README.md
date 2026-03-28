@@ -2,19 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Goutham!;Software+Engineer+%F0%9F%92%BB;Always+learning%2C+always+building" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/masavarapugoutham">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/gouthamgo">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
 ## About Me
 
 Passionate about building products, solving problems, and exploring AI/ML. I love turning ideas into code and learning something new every day.
