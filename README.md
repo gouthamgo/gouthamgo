@@ -1,52 +1,31 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Goutham!;Software+Engineer+%F0%9F%92%BB;Always+learning%2C+always+building" alt="Typing SVG" />
-</div>
+# Hey, I'm Goutham 👋
 
-## About Me
+**AI engineer. I build LLM tools, agents and the apps around them — and ship them.**
 
-Passionate about building products, solving problems, and exploring AI/ML. I love turning ideas into code and learning something new every day.
+I work at the seam between models and products: MCP servers that give agents real tools, fine-tuning pipelines, and small AI-powered apps that people actually use. Background in Salesforce engineering, now all-in on AI/ML.
 
-<br/>
+### 🧠 Featured AI work
 
-## Tech Stack
+| Project | What it is |
+|---|---|
+| [**mcp-server**](https://github.com/gouthamgo/mcp-server) | 10 Model Context Protocol servers + a guide to building your own |
+| [**FineTuning**](https://github.com/gouthamgo/FineTuning) | Fine-tune transformer models from scratch — notebooks + dashboard |
+| [**Learn-AI**](https://github.com/gouthamgo/Learn-AI) | Free 22-week AI curriculum: 67 lessons, 7 projects |
+| [**zerocost**](https://github.com/gouthamgo/cp) | C++ and Rust, visually, for ML-infrastructure roles |
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</div>
+### 🛠 Things I've shipped
 
-<br/>
+| Project | What it is |
+|---|---|
+| [**ShipShots**](https://github.com/gouthamgo/ShipShots) | App Store screenshot generator |
+| [**PrivaChart**](https://github.com/gouthamgo/Privachart) | Privacy-first, in-browser chart maker |
+| [**AlgoForge**](https://github.com/gouthamgo/algoforge) | Pattern-based interview prep with spaced repetition |
+| [**SFCC Content Updater**](https://github.com/gouthamgo/SFCC-Content-updater) | VS Code extension for Salesforce Commerce Cloud |
 
-## GitHub Stats
+### Stack
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats-one-mu.vercel.app/api?username=gouthamgo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
+**AI/ML:** Python · PyTorch · Hugging Face · LLM APIs · MCP · RAG
+**Apps:** TypeScript · Next.js · React · Swift · Node
+**Also:** Salesforce (Apex, LWC) · Docker · PostgreSQL
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamgo&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouthamgo&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gouthamgo&label=Profile%20Views&color=1f6feb&style=flat" />
-</div>
+<img height="150" src="https://github-readme-stats-one-mu.vercel.app/api?username=gouthamgo&show_icons=true&theme=tokyonight&hide_border=true" />
