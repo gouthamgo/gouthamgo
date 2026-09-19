@@ -1,31 +1,27 @@
-# Hey, I'm Goutham 👋
+# Hi, I'm Goutham 👋
 
-**AI engineer. I build LLM tools, agents and the apps around them — and ship them.**
+Software engineer building with AI. I take ideas from a blank repo to shipped product — web apps, iOS apps, APIs and developer tools — and I'm going deep on LLMs and machine learning.
 
-I work at the seam between models and products: MCP servers that give agents real tools, fine-tuning pipelines, and small AI-powered apps that people actually use. Background in Salesforce engineering, now all-in on AI/ML.
+### What I work on
 
-### 🧠 Featured AI work
+- **AI engineering** — LLM integrations, agents and tool use (MCP), fine-tuning, RAG
+- **Full-stack web** — Next.js, React, TypeScript, Node, REST APIs, Postgres
+- **Native apps** — SwiftUI iOS and macOS apps, on-device and privacy-first
+- **Salesforce** — Apex, Lightning Web Components, Commerce Cloud (SFRA)
 
-| Project | What it is |
-|---|---|
-| [**mcp-server**](https://github.com/gouthamgo/mcp-server) | 10 Model Context Protocol servers + a guide to building your own |
-| [**FineTuning**](https://github.com/gouthamgo/FineTuning) | Fine-tune transformer models from scratch — notebooks + dashboard |
-| [**Learn-AI**](https://github.com/gouthamgo/Learn-AI) | Free 22-week AI curriculum: 67 lessons, 7 projects |
-| [**zerocost**](https://github.com/gouthamgo/cp) | C++ and Rust, visually, for ML-infrastructure roles |
+### Right now
 
-### 🛠 Things I've shipped
-
-| Project | What it is |
-|---|---|
-| [**ShipShots**](https://github.com/gouthamgo/ShipShots) | App Store screenshot generator |
-| [**PrivaChart**](https://github.com/gouthamgo/Privachart) | Privacy-first, in-browser chart maker |
-| [**AlgoForge**](https://github.com/gouthamgo/algoforge) | Pattern-based interview prep with spaced repetition |
-| [**SFCC Content Updater**](https://github.com/gouthamgo/SFCC-Content-updater) | VS Code extension for Salesforce Commerce Cloud |
+- Building AI-powered products end to end
+- Learning ML fundamentals, model training and GPU programming (CUDA)
+- Shipping small tools that make developers faster
 
 ### Stack
 
-**AI/ML:** Python · PyTorch · Hugging Face · LLM APIs · MCP · RAG
-**Apps:** TypeScript · Next.js · React · Swift · Node
-**Also:** Salesforce (Apex, LWC) · Docker · PostgreSQL
+`Python` `TypeScript` `JavaScript` `Swift` `Apex`
+`Next.js` `React` `Node` `SwiftUI` `Tailwind`
+`PyTorch` `Hugging Face` `LLM APIs` `MCP`
+`PostgreSQL` `Docker` `Git` `Vercel`
 
-<img height="150" src="https://github-readme-stats-one-mu.vercel.app/api?username=gouthamgo&show_icons=true&theme=tokyonight&hide_border=true" />
+---
+
+<sub>Always building. Open to interesting AI and full-stack work.</sub>
